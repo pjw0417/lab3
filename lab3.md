@@ -33,7 +33,7 @@ assertArrayEquals(new int[]{ 1,2,1 }, input1);
 3. 
 
 
-[!Bug Test](Bugtests.PNG)
+screenshot1: ![BugTest](Bugtests.PNG)
 
 
 The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
